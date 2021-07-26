@@ -8,13 +8,17 @@ https://kagjuarez.github.io/BATABIT-tablet-portafolio3/
 
 <img src="https://images.unsplash.com/photo-1618389041494-8fab89c3f22b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80">
 
-###Santa Catalina Labure
+Santa Catalina Labure
 
-> keiry Anai de Guadalupe Juárez Erazo•
-> 5.to bachillerato en Diseño Gráfico
-> **Curso:** Diseño Computarizado
-> **Catedrático:** Jossue Emmanuel Fuentes
-> **2021**
+keiry Anai de Guadalupe Juárez Erazo
+<br><br/>
+5.to bachillerato en Diseño Gráfico
+<br><br/>
+**Curso:** Diseño Computarizado
+<br><br/>
+**Catedrático:** Jossue Emmanuel Fuentes
+<br><br/>
+**2021**
 
 Índice 
                 
@@ -22,7 +26,7 @@ https://kagjuarez.github.io/BATABIT-tablet-portafolio3/
 + Anteportada
 + Índice
 + Objetivos
-+ BAtabit
++ Batabit
 + Proceso del proyecto
 + Conclusión
 
