@@ -64,6 +64,8 @@ Diferentes plataformas
 <br/>
 **> Versión teléfono**
 En la versión de teléfono movil se adapta el diseño dado en figma para desarrollarlo en código tal y como lo indica el diseñi UI, en la que muestra todos los componenetes moviles de la pagina web de Batabit.
+<br> 
+<br/>
 <img width="400px" src="https://repository-images.githubusercontent.com/307003855/85e21580-163b-11eb-9324-bfc32d17157f">
 <br>
 <br/>
