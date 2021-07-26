@@ -71,7 +71,7 @@ En la versión de teléfono movil se adapta el diseño dado en figma para desarr
 <br/>
 **> Versión tableta**
 En la versión que le sigue a la de movil es la de tableta o iPad que adapta los componentes del diseño UI en componentes de tableta en el cual hay que respetar con diseño responsive al momento de estrucutrarlo en código.
-<img src="https://drive.google.com/file/d/1oO7WYBWwZz5UrsMyAqUXBhJARcxp5sWM/view">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS53M8SpaTeEFkJfpl6_U0BOfRw80JalHEHDg&usqp=CAU">
 <br>
 <br/>
 **> Versión Desktop**
