@@ -39,7 +39,7 @@ keiry Anai de Guadalupe Juárez Erazo
 <br> 
 <br/>
 
-###Proyecto
+Proyecto
 
 > Descripción del proyecto
 
@@ -47,7 +47,7 @@ En el siguiente proyecto realizado en  código html y css está inspirado o desa
 
 <img src="https://static.platzi.com/media/porfilio/batatabit_bcfd63bd-620c-41a1-835e-dc886efc325b.png">
 
-###Proceso 
+Proceso 
 
 > Descripción del proyecto
 
