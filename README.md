@@ -16,7 +16,7 @@ https://kagjuarez.github.io/BATABIT-tablet-portafolio3/
 > **Catedrático:** Jossue Emmanuel Fuentes
 > **2021**
 
-####Ídice 
+Índice 
                 
 + Portada
 + Anteportada
