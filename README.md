@@ -27,8 +27,11 @@ keiry Anai de Guadalupe Juárez Erazo
 + Índice
 + Objetivos
 + Batabit
-+ Proceso del proyecto
-+ Conclusión
+    + descripción 
+    + Proceso del Proyecto 
+    + Diferentes plataformas
++ conclusión
+
 
 ### Objetivos
 **1- Poder analizar muy bien la estructura del diseño para realizarlo correctamente en código html y css**
