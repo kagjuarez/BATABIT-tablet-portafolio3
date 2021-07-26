@@ -59,7 +59,9 @@ Proceso
 
 En el siguiente proyecto realizado en  código html y css está inspirado o desarrollado por el nombre de BATABIT en el cual nos muestra una página web diseñada en diferentes plataformas como lo es en teléfono, tableta y desktop o computadora de escritorio.  El proyecto consisitia en adaptar esta plataforma en código en un código responsive, para que así pueda ser adaptada en muchas plataformas.
 
-###Diferentes plataformas
+Diferentes plataformas
+<br> 
+<br/>
 **> Versión teléfono**
 En la versión de teléfono movil se adapta el diseño dado en figma para desarrollarlo en código tal y como lo indica el diseñi UI, en la que muestra todos los componenetes moviles de la pagina web de Batabit.
 <img width="400px" src="https://repository-images.githubusercontent.com/307003855/85e21580-163b-11eb-9324-bfc32d17157f">
@@ -70,7 +72,7 @@ En la versión que le sigue a la de movil es la de tableta o iPad que adapta los
 <img src="https://drive.google.com/file/d/1oO7WYBWwZz5UrsMyAqUXBhJARcxp5sWM/view">
 <br>
 <br/>
-**Versión Desktop**
+**> Versión Desktop**
 En la versión desktop o para pantallas de computadoras de escritorio/laptops realizamos el mismo proceso de respetar el diseño dado anteriormente modificando cada uno de los componentes.
 <br>
 <br/>
