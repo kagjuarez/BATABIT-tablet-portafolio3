@@ -2,7 +2,7 @@ Portafolio Periodo ||| 2021
 
 https://kagjuarez.github.io/BATABIT-tablet-portafolio3/
 
-### Proyecto 2021 ⁘
+ Proyecto 2021 ⁘
 
 # BATABIT - - - - - - - - - - - - - - -  ⨞
 
