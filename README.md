@@ -22,7 +22,7 @@ https://kagjuarez.github.io/BATABIT-tablet-portafolio3/
 + Anteportada
 + Índice
 + Objetivos
-+ Descripción
++ BAtabit
 + Proceso del proyecto
 + Conclusión
 
