@@ -85,7 +85,7 @@ En la versión desktop o para pantallas de computadoras de escritorio/laptops re
 ### Conclusión ⁘
 Llegando a este punto del README puedo mencionar que la realización de todo el proyecto de batabit fue un poco laborioso pero a la vez sencillo si ponia en práctica todo lo aprendido en esos dos ultimos años de estudio de bachiller. Al final espero poder concluir el trabajo con satisfacción o con la mayor cantidad de puntaje posible.
 
-<img src="https://i.pinimg.com/564x/be/56/84/be56845e983449c1b1c5160dbd1158a2.jpg">
+<img width="200px" src="https://i.pinimg.com/564x/be/56/84/be56845e983449c1b1c5160dbd1158a2.jpg">
 
 
 
