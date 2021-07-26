@@ -32,6 +32,7 @@ keiry Anai de Guadalupe Juárez Erazo
     + Diferentes plataformas
 + conclusión
 
+<br><br/>
 
 ### Objetivos
 **1- Poder analizar muy bien la estructura del diseño para realizarlo correctamente en código html y css**
