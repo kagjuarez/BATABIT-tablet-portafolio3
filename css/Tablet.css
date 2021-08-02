@@ -1,0 +1,631 @@
+.titulo_batata{
+    width: 55rem;
+    height: 11rem;
+    margin: auto;
+    position: relative;
+    margin-top: 20rem;
+    padding: 2rem;
+    display: flex; 
+}
+
+.title_principal{
+    color: var(--Bitcoin-Orange);
+    font-size: 6rem;
+    align-content: center; 
+    font-weight: bold;
+}
+
+.icono_1{
+    display: flex;
+    height: 8rem;
+    margin-top: 1rem;
+    margin-right: 2rem;
+    padding: 1rem; 
+
+}
+
+.descripcion{
+    width: 80rem;
+    height: 80rem;
+    margin: auto;
+    margin-top: 7rem;
+}
+
+.texto_1{
+    text-align: center;
+    font-size: 7rem;
+    color: var(--Just-White);
+}
+
+.texto_2{
+    margin-top: 7rem;
+    text-align: center;
+    font-size: 4rem;
+    color: #FFE9D4;
+}
+
+.caja_arrow_D{
+    width: 50rem;
+    height: 10rem;
+    background-color: var(--Just-White);
+    margin: auto;
+    border-radius: 1rem;
+    margin-top: 17rem;
+    padding: 3rem 2rem 3rem 6rem;
+    -webkit-box-shadow: 2px 14px 17px 0px rgba(209,209,209,0.69);
+    -moz-box-shadow: 2px 14px 17px 0px rgba(209,209,209,0.69);
+    box-shadow: 2px 14px 17px 0px rgba(209,209,209,0.69);
+     
+}
+
+.flechita{
+    font-size: 3rem;
+    display: flex;
+    color: var(--Warm-Black-1); 
+}
+
+/*_______________________________________*/
+
+.segunda_sec{
+    width: 90rem;
+    height: 90rem;
+    margin: auto;
+    background-color: var(--Off-White);
+    margin: auto;
+}
+
+.boitcoin_img{
+    height: 40rem;
+    margin-top: 7rem;
+    margin: auto;
+    display: block;
+}
+
+.texto_4{
+    margin-top: 4rem;
+    text-align: center;
+    font-size: 7rem;
+    color: var(--Warm-Black)
+}
+
+.texto_5{
+    font-size: 3.7rem;
+    color: var(--Grey);
+    text-align: center;
+    margin-top: 4rem;
+    padding: 0rem 2rem 0rem 2rem;
+}
+
+/*_______________________________________*/
+
+.Tercera_sec{
+    width: 85rem;
+    height: 12;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.texto_6-Orange{
+    color: var(--Bitcoin-Orange);
+    font-size: 4rem;
+    margin-bottom: 3rem;
+    width: 40rem;
+    height: 6rem;
+    padding-left: 3rem;
+}
+
+.texto_6Azul{
+    color: var(--Secondary-Blue);
+    font-size: 4rem;
+    margin-bottom: 3rem;
+    width: 40rem;
+    height: 6rem;
+    margin-left: 5rem;
+}
+
+.tabla{
+    border-collapse: collapse;
+    width: 50rem;
+    height: 40rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td,tr{
+    border: 1rem solid var(--Off-White);
+}
+
+.text{
+    font-size: 2.3rem;
+}
+
+table{
+    border-collapse: collapse;
+    border-radius: 2rem;
+    background-color: #ffffff;
+}
+
+.tabla_1{
+    width: 85rem;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+/*_______________________________________*/
+
+.Cuarta_sec{
+    width: 100%;
+    height: 280rem;
+    background-color: var(--Warm-Black);
+    margin-top: 17rem;
+}
+
+.titulo_n{
+    color: var(--Just-White);
+    text-align: center;
+    margin: auto;
+    font-size: 6rem;
+    padding-top: 20rem;
+    padding: 10rem 10rem 0rem 10rem;
+}
+
+.texto_9{
+    font-size: 3.5rem;
+    color: #7A7A7A;
+    margin: auto;
+    text-align: center;
+    margin-top: 4rem;
+    padding: 1rem 10rem 1rem 10rem;
+}
+
+/*_______________________________________*/
+
+.Cuarta_sec{
+    width: 100%;
+    height: 100rem;
+    background-color: var(--Warm-Black);
+    margin-top: 17rem;
+}
+
+
+.titulo_n{
+    font-size: 6rem;
+    color: var(--Off-White);
+    font-weight: lighter;  
+}
+
+.texto_9{
+    font-size: 4rem;
+    color: #808080;
+    margin-top: 1rem;
+}
+
+/*________CAJAS_______________________*/
+
+.content_C{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.cajas{
+    width: 50rem;
+    height: 20rem;
+    background-color: #282623;
+    margin: 3rem; 
+    border-radius: 1rem;
+    padding-bottom: 3rem;
+    padding: 2rem;
+}
+
+cajas, h4{
+    font-size: 2.5rem;
+    color: var(--Just-White);
+    display: flex;
+    flex-direction: column;
+    font-weight: lighter;
+}
+
+cajas, p{
+    font-size: 2rem;
+    color: #808080;
+}
+
+.cajas img{
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem 1rem 1rem 0rem;
+}
+
+/*___*/
+
+.content_A{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.cajas2{
+    width: 50rem;
+    height: 20rem;
+    background-color: #282623;
+    margin: 3rem; 
+    border-radius: 1rem;
+    padding-bottom: 3rem;
+    padding: 2rem;
+}
+
+.title{
+    font-size: 2.5rem;
+    color: var(--Just-White);
+    display: flex;
+    flex-direction: column;
+    font-weight: lighter;
+}
+
+.text{
+    font-size: 2rem;
+    color: #808080;
+}
+
+.cajas2 img{
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem 1rem 1rem 0rem;
+}
+
+/*__________CAJAS______________________*/
+
+
+.Quinta_sec{
+    margin: 0rem auto;
+}
+
+.chica_bit{
+    height: 35.8rem;
+    margin: auto;
+}
+
+.texto_11{
+    font-size: 5rem;
+    position: absolute;
+    color: var(--Off-White);
+    margin: 0rem auto;
+    align-content: center;
+    text-align: center;
+    padding: 15rem 2rem 0rem 30rem; 
+}
+
+/*_______________________________________*/
+ 
+.Sexta_sec{
+    width: auto;
+    height: auto;
+    margin: auto;
+    margin-top: 9rem;
+}
+
+.padre_pago{
+    width: 95rem;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.texto_12{
+    color: var(--Warm-Black-1);
+    font-size: 6rem;
+    text-align: center;
+    padding: 0rem 10rem 1rem 10rem;
+}
+
+.texto_13{
+    color: #757575;
+    font-size: 3.5rem;
+    text-align: center; 
+    padding: 0rem 10rem 0rem 10rem;
+}
+
+.contenedor_griss{
+    width: 40rem;
+    height: auto;
+    color: var(--Grey);
+}
+
+.cuadro_orange{
+    width: 20rem;
+    height: 7rem;
+    background-color: var(--Bitcoin-Orange);
+    margin: auto;
+    align-content: center;
+    margin-left: 6.5rem;
+    border-radius: 1rem;
+    position: absolute;
+    margin-top: 5rem;
+}
+
+.texto_cuadro{
+    font-size: 2rem;
+}
+
+.ventas{
+    width: 30rem;
+    height: 45rem;
+    background-color: var(--Just-White);
+    border-radius: 1.5rem;
+    box-shadow: 0px 3px 21px -8px rgba(117,117,117,0.84);
+    margin: auto;
+    margin-top: 10rem;
+    padding: 6rem 2rem 0rem 2rem;
+ 
+}
+
+.pago{
+    width: 30rem;
+    height: 25rem;
+    margin: auto;
+}
+
+.texto_14{
+    font-size: 2rem;
+    color: var(--Warm-Black-1);
+    text-align: center;
+    padding-right: 3rem;
+}
+
+.pago99{
+    width: 15rem; 
+    display: flex;
+    text-align: center;
+}
+
+.dolar-1{
+    font-size: 3rem;
+}
+
+.dolar_2{
+    font-size: 9rem;
+}
+
+.texto_15{
+    font-size: 1.7rem;
+    text-align: center;
+    color: #757575;
+    padding: 1rem 5rem 1rem 1rem;
+}
+
+.boton_ventas_griss{
+    width: 25rem;
+    height: 8rem;
+    background-color: var(--Off-White);
+    margin: auto;
+    border: 0.5rem solid var(--Grey);
+    border-radius: 1rem;
+    padding: 2rem 1rem 0rem 3rem;
+    display: flex;
+}
+
+.texto_16{
+    font-size: 2.5rem;
+}
+
+.flecha{
+    color: var(--Bitcoin-Orange);
+    font-size: 3rem;
+    padding-left: 1rem;
+}
+
+.flecha_griss{
+    color: var(--Grey);
+    font-size: 3rem;
+    padding-left: 1rem;
+}
+
+
+.boton_ventas_negro{
+    width: 25rem;
+    height: 8rem;
+    background-color: var(--Off-White);
+    margin: auto;
+    border: 0.5rem solid var(--Bitcoin-Orange);
+    border-radius: 1rem;
+    padding: 2rem 1rem 0rem 3rem;
+    display: flex;
+}
+
+.texto_16{
+    font-size: 2.5rem;
+}
+
+.flecha{
+    color: var(--Bitcoin-Orange);
+    font-size: 3rem;
+    padding-left: 1rem;
+}
+
+
+/*____NO GRISS___________*/
+
+.contenedor_negro{
+    width: 40rem;
+    height: auto;
+}
+
+.cuadro_orange{
+    width: 20rem;
+    height: 7rem;
+    background-color: var(--Bitcoin-Orange);
+    margin: auto;
+    align-content: center;
+    margin-left: 6.5rem;
+    border-radius: 1rem;
+    position: absolute;
+    margin-top: 5rem;
+}
+
+.texto_cuadro{
+    font-size: 2rem;
+}
+
+.ventas{
+    width: 30rem;
+    height: 45rem;
+    background-color: var(--Just-White);
+    border-radius: 1.5rem;
+    box-shadow: 0px 3px 21px -8px rgba(117,117,117,0.84);
+    margin: auto;
+    margin-top: 10rem;
+    padding: 6rem 2rem 0rem 2rem;
+ 
+}
+
+.pago{
+    width: 30rem;
+    height: 25rem;
+    margin: auto;
+}
+
+.texto_14{
+    font-size: 2rem;
+    color: var(--Warm-Black-1);
+    text-align: center;
+    padding-right: 3rem;
+}
+
+.pago99{
+    width: 15rem; 
+    display: flex;
+    text-align: center;
+}
+
+.dolar-1{
+    font-size: 3rem;
+}
+
+.dolar_2{
+    font-size: 9rem;
+}
+
+.texto_15{
+    font-size: 1.7rem;
+    text-align: center;
+    color: #757575;
+    padding: 1rem 5rem 1rem 1rem;
+}
+
+.boton_ventas{
+    width: 25rem;
+    height: 8rem;
+    background-color: var(--Off-White);
+    margin: auto;
+    border: 0.5rem solid var(--Bitcoin-Orange);
+    border-radius: 1rem;
+    padding: 2rem 1rem 0rem 3rem;
+    display: flex;
+}
+
+.texto_16{
+    font-size: 2.5rem;
+}
+
+.flecha{
+    color: var(--Bitcoin-Orange);
+    font-size: 3rem;
+    padding-left: 1rem;
+}
+
+
+/*_______________________________________*/
+
+.sec_preguntas{
+    width: 80rem;
+    height: 80rem;
+    margin: auto;
+    margin-top: 10rem;
+}
+
+.titulo_preg{
+    font-size: 7rem;
+    color: var(--Warm-Black-1);
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.texto_griss{
+    font-size: 4rem;
+    margin-top: 3rem;
+    color: #7A7A7A;
+    padding: 1rem;
+}
+
+/*_______________________________________*/
+
+.FOOTER{
+    width: 100%;
+    height: 40rem;
+    background-color: #F7931A;
+    padding: 10rem 8rem 2rem 8rem;
+    display: flex;
+    margin: auto;
+}
+
+
+.C_F1{
+    width: 30rem;
+    height: 30rem;
+    color: var(--Just-White);
+    margin: auto;
+    
+    font-size: 4rem;
+}
+
+.C_F2{
+    width: 30rem;
+    height: 30rem;
+}
+
+.img_icon_bit{
+    height: 10rem;
+}
+
+.texto_17{
+    font-size: 3rem;
+    color: var(--Just-White);
+}
+
+.Footer_text{
+    font-size: 3rem;
+    color: var(--Just-White);
+    margin: auto;
+    padding: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
