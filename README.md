@@ -33,6 +33,7 @@ keiry Anai de Guadalupe Juárez Erazo
     + Proceso del Proyecto 
     + Diferentes plataformas
 + conclusión
++ Objetivos Futuros
 
 <br><br/>
 
