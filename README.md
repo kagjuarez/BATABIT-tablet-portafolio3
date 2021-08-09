@@ -87,6 +87,9 @@ Llegando a este punto del README puedo mencionar que la realización de todo el 
 
 <img width="200px" src="https://i.pinimg.com/564x/be/56/84/be56845e983449c1b1c5160dbd1158a2.jpg">
 
+### Objetivos futuros
+Organización: A pesar de que realize mi trabajo con las normas requeridas para esta tarea siento que pude ordenar mucho mejor las cosas en las que distribuí mi código, es entendible, cada cosa tiene nombrada unaclase con un nombre respectivo pero siempre puedo seguir mejorando en este aspecto hasta lograr tener un orden mucho más "económico" más factible y que al momento de verlo luzca mejor y ordenadamente.
+
 
 
 
