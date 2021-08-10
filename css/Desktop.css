@@ -130,11 +130,13 @@
     height: 6rem;
 }
 
+/*______________________________*/
+
 .Cuarta_sec{
     width: 100%;
-    height: 97rem;
+    height: 80rem;
     background-color: var(--Warm-Black);
-    margin-top: 17rem;
+    margin-top: 10rem;
 }
 
 
@@ -153,6 +155,8 @@
 /*________CAJAS_______________________*/
 
 .content_C{
+    width: 100rem;
+    height: 25rem;
     display: flex;
     flex-direction: row;
     margin: auto;
@@ -167,7 +171,7 @@
 
 .cajas{
     width: 50rem;
-    height: 20rem;
+    height: 17rem;
     background-color: #282623;
     margin: 3rem; 
     border-radius: 1rem;
@@ -204,7 +208,7 @@ cajas, p{
 
 .cajas2{
     width: 50rem;
-    height: 20rem;
+    height: 17rem;
     background-color: #282623;
     margin: 3rem; 
     border-radius: 1rem;
@@ -236,21 +240,24 @@ cajas, p{
 
 .Quinta_sec{
     width: 100%;
-    height: 50rem;
-    background-image: url(../img/bitcoinbaby-tableta .png);
+    height: 40rem;
+    background-image: url(../img/bitcoinbaby-tableta%20.png);
     background-size: contain;
     background-repeat: no-repeat;  
     margin: auto;
+    margin-bottom: 3rem;
 }
 
 .texto_11{
+    width: 100%;
+    height: 10rem;
     font-size: 5rem;
     position: absolute;
     color: var(--Off-White);
-    margin: 0rem auto;
+    margin: auto;
     align-content: center;
     text-align: center;
-    align-content: center;
+    align-items: center;
 }
 
 /*_______________________________________*/
@@ -276,7 +283,6 @@ cajas, p{
     color: #7A7A7A;
     padding: 1rem;
 }
-
 
 
 
