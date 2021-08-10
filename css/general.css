@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;
+}
+
+html{
+    font-size: 10px; 
+    
+}
+
+:root{
+    --Bitcoin-Orange:   #F7931A;
+    --Soft-Orange:      #FFE9D5;
+    --Secondary-Blue:   #1A9AF7;
+    --Soft-Blue:        #E7F5FF;
+    --Warm-Black:       #201E1C;
+    --Warm-Black-1:     #282623;
+    --Grey:             #BABABA;
+    --Off-White:        #FAF8F7;
+    --Just-White:       #FFFFFF;
+}
+
+body{
+    font-size: 10rem; /*le esta haciendo caso a esti*/
+    background-color: var(--Off-White);
+    width: 100%;
+}
+
+
+@media only screen (max-width: 320px) {
+     
+}
+
+@media only screen (max-width: 768px) {
+    
+}
+
+@media only screen (max-width: 1366px) {
+    
+}
+
+@media only screen (max-width: 1440px) {
+    
+}
+
+/*RECUERDA USAR UNIDADES << REM >> - html*/
+/*Medida del telefono -<< iPhone 6/7/8 >>*/

@@ -1,0 +1,466 @@
+.titulo_batata{
+    width: 55rem;
+    height: 11rem;
+    margin: auto;
+    position: relative;
+    margin-top: 8rem;
+    padding: 2rem;
+    display: flex; 
+}
+
+.primera_sec{
+    width: 100%;
+    height: 60rem;
+    background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
+    position: absolute;
+}
+
+.title_principal{
+    color: var(--Bitcoin-Orange);
+    font-size: 5rem;
+    align-content: center; 
+    font-weight: bold;
+}
+
+.icono_1{
+    display: flex;
+    height: 6rem;
+    margin-left: 8rem;
+}
+
+.descripcion{
+    width: 80rem;
+    height: 80rem;
+    margin: auto;
+    margin-top: 4rem;
+}
+
+.texto_1{
+    text-align: center;
+    font-size: 4.5rem;
+    color: var(--Just-White);
+}
+
+.texto_2{
+    margin-top: 4rem;
+    text-align: center;
+    font-size: 2.3rem;
+    color: #FFE9D4;
+    padding: 3rem;
+}
+
+.caja_arrow_D{
+    width: 35rem;
+    height: 8rem;
+    background-color: var(--Just-White);
+    margin: auto;
+    border-radius: 1rem;
+    margin-top: 5rem;
+    
+    padding: 2.5rem 2rem 3rem 5rem;
+    -webkit-box-shadow: 2px 14px 17px 0px rgba(209,209,209,0.69);
+    -moz-box-shadow: 2px 14px 17px 0px rgba(209,209,209,0.69);
+    box-shadow: 2px 14px 17px 0px rgba(209,209,209,0.69);
+     
+}
+
+.flechita{
+    font-size: 2rem;
+    display: flex;
+    color: var(--Warm-Black-1); 
+}
+
+/*_________________________________________*/
+
+.segunda_sec{
+    width: 90rem;
+    height: 90rem;
+    margin: auto;
+    margin-top: -30rem;
+}
+
+.boitcoin_img{
+    height: 20rem;
+    margin: auto;
+}
+
+.texto_4{
+    margin-top: 6rem;
+    text-align: center;
+    font-size: 3rem;
+    color: var(--Warm-Black)
+}
+
+.texto_5{
+    font-size: 2rem;
+    color: var(--Grey);
+    text-align: center;
+    margin-top: 4rem;
+    padding: 0rem 4rem 0rem 4rem;
+}
+
+
+/*_________________________________________*/
+.Tercera_sec{
+    width: 70rem;
+    height: 6rem;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-top: -40rem;
+    border-radius: 0rem;
+}
+
+.texto_6-Orange{
+    color: var(--Bitcoin-Orange);
+    font-size: 2rem;
+    width: 40rem;
+    height: 6rem;
+    padding-left: 5rem;
+}
+
+.texto_6Azul{
+    color: var(--Secondary-Blue);
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    width: 40rem;
+    height: 6rem;
+    margin-left: 6rem;
+}
+
+
+
+.tabla{
+    border-collapse: collapse;
+    width: 30rem;
+    height: 35rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+td,tr{
+    border: 0.3rem solid var(--Off-White);
+    padding: 2rem 3rem 3rem 3rem;
+    font-size: 1rem;
+}
+
+.text{
+    font-size: 1rem;
+}
+
+table{
+    border-collapse: collapse;
+    border-radius: 2rem;
+    background-color: #ffffff;
+}
+
+.tabla_1{
+    width: 68rem;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+/*_________________________________________*/
+
+
+.Cuarta_sec{
+    width: 100%;
+    height: 70rem;
+    background-color: var(--Warm-Black);
+    margin-top: 8rem;
+}
+
+
+.titulo_n{
+    font-size: 5rem;
+    color: var(--Off-White);
+    font-weight: lighter;
+    padding-top: 7rem;
+}
+
+.texto_9{
+    font-size: 2.2rem;
+    color: #808080;
+    margin-top: 1rem;
+    padding: 0rem 10rem 0rem 10rem; 
+}
+
+.content_C{
+    width: 100rem;
+    height: 23rem;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.cajas{
+    width: 35rem;
+    height: 5rem;
+    background-color: #282623;
+    margin: 2rem 3rem 2rem 3rem; 
+    border-radius: 0.5rem;
+    padding-bottom: 2rem;
+    padding: 2rem;
+}
+
+cajas, h4{
+    font-size: 1rem;
+    color: var(--Just-White);
+    display: flex;
+    flex-direction: column;
+    font-weight: lighter;
+}
+
+cajas, p{
+    font-size: 0.4rem;
+    color: #808080;
+}
+
+.cajas img{
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem 1rem 1rem 0rem;
+}
+
+/*___*/
+
+.content_A{
+    width: 100rem;
+    height: 25rem;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.cajas2{
+    width: 35rem;
+    height: 5rem;
+    background-color: #282623;
+    margin: 2rem 3rem 2rem 3rem; 
+    border-radius: 0.5rem;
+    padding-bottom: 3rem;
+    padding: 2rem;
+}
+
+.title{
+    font-size: 2.5rem;
+    color: var(--Just-White);
+    display: flex;
+    flex-direction: column;
+    font-weight: lighter;
+}
+
+.texticon{
+    font-size: 1.5rem;
+    color: #808080;
+}
+
+.cajas2 img{
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem 1rem 1rem 0rem;
+}
+
+/*________CAJAS_______________________*/
+
+.content_C{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.cajas{
+    width: 50rem;
+    height: 17rem;
+    background-color: #282623;
+    margin: 3rem; 
+    border-radius: 1rem;
+    padding-bottom: 3rem;
+    padding: 2rem;
+}
+
+cajas, h4{
+    font-size: 2.5rem;
+    color: var(--Just-White);
+    display: flex;
+    flex-direction: column;
+    font-weight: lighter;
+}
+
+cajas, p{
+    font-size: 2rem;
+    color: #808080;
+}
+
+.cajas img{
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem 1rem 1rem 0rem;
+}
+
+/*________________________*/
+
+.content_A{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.cajas2{
+    width: 50rem;
+    height: 17rem;
+    background-color: #282623;
+    margin: 3rem; 
+    border-radius: 1rem;
+    padding-bottom: 3rem;
+    padding: 2rem;
+}
+
+.title{
+    font-size: 2rem;
+    color: var(--Just-White);
+    display: flex;
+    flex-direction: column;
+    font-weight: lighter;
+}
+
+.text{
+    font-size: 2rem;
+    color: #808080;
+}
+
+.cajas2 img{
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem 1rem 1rem 0rem;
+}
+
+/*_______________________________________*/
+
+
+.Quinta_sec{
+    width: 100%;
+    height: 40rem;
+    background-image: url(../img/bitcoinbaby-tableta%20.png);
+    background-size: contain;
+    background-repeat: no-repeat;      
+}
+
+.texto_11{
+    width: 100%;
+    height: 10rem;
+    font-size: 5rem;
+    position: absolute;
+    color: var(--Off-White);
+    margin: auto;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+
+/*_________________________*/
+
+.Sexta_sec{
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+
+.padre_pago{
+    width: 95rem;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.texto_12{
+    color: var(--Warm-Black-1);
+    font-size: 4rem;
+    text-align: center;
+    padding: 0rem 10rem 1rem 10rem;
+}
+
+.texto_13{
+    color: #757575;
+    font-size: 2rem;
+    text-align: center; 
+    padding: 0rem 10rem 0rem 10rem;
+}
+
+/*_________________________*/
+
+.sec_preguntas{
+    width: 80rem;
+    height: 40rem;
+    margin: auto;
+    margin-top: 10rem;
+    padding-right: 10rem;
+    padding-left: 10rem;
+}
+
+.titulo_preg{
+    font-size: 3rem;
+    color: var(--Warm-Black-1);
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.texto_griss{
+    font-size: 2rem;
+    margin-top: 3rem;
+    color: #7A7A7A;
+    padding: 1rem;
+}
+
+/*_________________________*/
+
+.FOOTER{
+    width: 100%;
+    height: 40rem;
+    background-color: #F7931A;
+    padding: 10rem 8rem 2rem 8rem;
+    display: flex;
+    margin: auto;
+    margin-top: 5rem;
+}
+
+
+.C_F1{
+    width: 30rem;
+    height: 30rem;
+    color: var(--Just-White);
+    margin: auto;
+    
+    font-size: 4rem;
+}
+
+.C_F2{
+    width: 30rem;
+    height: 30rem;
+}
+
+.img_icon_bit{
+    height: 7rem;
+}
+
+.texto_17{
+    font-size: 2.5rem;
+    color: var(--Just-White);
+}
+
+.Footer_text{
+    font-size: 2.5rem;
+    color: var(--Just-White);
+    margin: auto;
+    padding: 1rem;
+}
+
+
+
+
+
