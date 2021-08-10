@@ -1,31 +1,32 @@
-.titulo_batata{
-    width: 55rem;
-    height: 11rem;
-    margin: auto;
-    position: relative;
-    margin-top: 20rem;
-    padding: 2rem;
-    display: flex; 
+.primera_sec{
+    width: 100rem;
+    height: 105rem;
+    background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
+    position: absolute;
 }
 
-.title_principal{
+.titulo_batata{
+    width: 70rem;
+    height: 16rem;
+    background-color: ;
+    margin: auto;
+    position: relative;
+    margin-top: 12rem;
+    padding: 2rem;
+    display: flex;
     color: var(--Bitcoin-Orange);
-    font-size: 6rem;
-    align-content: center; 
-    font-weight: bold;
 }
 
 .icono_1{
     display: flex;
-    height: 8rem;
+    height: 12rem;
     margin-top: 1rem;
     margin-right: 2rem;
     padding: 1rem; 
-
 }
 
 .descripcion{
-    width: 80rem;
+    width: 95rem;
     height: 80rem;
     margin: auto;
     margin-top: 7rem;
@@ -33,50 +34,51 @@
 
 .texto_1{
     text-align: center;
-    font-size: 7rem;
+    font-size: 8.3rem;
     color: var(--Just-White);
+
 }
 
 .texto_2{
     margin-top: 7rem;
     text-align: center;
-    font-size: 4rem;
+    font-size: 4.3rem;
     color: #FFE9D4;
 }
 
 .caja_arrow_D{
-    width: 50rem;
-    height: 10rem;
+    width: 70rem;
+    height: 15rem;
     background-color: var(--Just-White);
     margin: auto;
     border-radius: 1rem;
-    margin-top: 10rem;
-    padding: 3rem 2rem 3rem 6rem;
+    margin-top: 6rem;
+    padding: 3rem 2rem 3rem 3.5rem;
     -webkit-box-shadow: 2px 14px 17px 0px rgba(209,209,209,0.69);
     -moz-box-shadow: 2px 14px 17px 0px rgba(209,209,209,0.69);
     box-shadow: 2px 14px 17px 0px rgba(209,209,209,0.69);
-     
+    
+    font-size: 5rem;
+    display: flex; 
 }
 
-.flechita{
-    font-size: 3rem;
-    display: flex;
-    color: var(--Warm-Black-1); 
+.img_AD{
+    height: 7rem;
 }
 
 /*_______________________________________*/
 
 .segunda_sec{
-    width: 90rem;
-    height: 90rem;
+    width: 100rem;
+    height: 120rem;
     margin: auto;
     background-color: var(--Off-White);
     margin: auto;
 }
 
 .boitcoin_img{
-    height: 40rem;
-    margin-top: 7rem;
+    height: 60rem;
+    margin-top: 5rem;
     margin: auto;
     display: block;
 }
@@ -84,13 +86,13 @@
 .texto_4{
     margin-top: 4rem;
     text-align: center;
-    font-size: 7rem;
+    font-size: 8rem;
     color: var(--Warm-Black)
 }
 
 .texto_5{
-    font-size: 3.7rem;
-    color: var(--Grey);
+    font-size: 5rem;
+    color: #565656;
     text-align: center;
     margin-top: 4rem;
     padding: 0rem 2rem 0rem 2rem;
@@ -98,61 +100,69 @@
 
 /*_______________________________________*/
 
-.Tercera_sec{
-    width: 85rem;
-    height: 12;
-    border-radius: 2rem;
-    display: flex;
-    flex-direction: row;
+.Tercera-sec{
+    width: 60rem;
+    height: 60rem;
     margin: auto;
+    border-radius: 2rem;
 }
 
-.texto_6-Orange{
+.texto_6{
     color: var(--Bitcoin-Orange);
-    font-size: 4rem;
+    font-size: 6rem;
     margin-bottom: 3rem;
-    width: 40rem;
-    height: 6rem;
-    padding-left: 3rem;
-}
-
-.texto_6Azul{
-    color: var(--Secondary-Blue);
-    font-size: 4rem;
-    margin-bottom: 3rem;
-    width: 40rem;
-    height: 6rem;
-    margin-left: 5rem;
+    width: 60rem;
+    height: 10rem;
+    margin: auto;
 }
 
 .tabla{
     border-collapse: collapse;
-    width: 50rem;
-    height: 40rem;
+    width: 65rem;
+    height: 60rem;
+    margin: auto;
     margin-left: auto;
     margin-right: auto;
 }
 
 td,tr{
     border: 1rem solid var(--Off-White);
+    padding: 3rem 5rem 3rem 5rem;
 }
 
 .text{
-    font-size: 2.3rem;
+    font-size: 5rem;
 }
 
 table{
     border-collapse: collapse;
+    margin: auto;
     border-radius: 2rem;
     background-color: #ffffff;
 }
 
-.tabla_1{
-    width: 85rem;
-    height: auto;
-    display: flex;
-    flex-direction: row;
+.C_o{
+    width: 60rem;
+    height: 12rem;
+    background-color: var(--Soft-Orange);
     margin: auto;
+    margin-top: 7rem;
+    display: flex;
+    border-radius: 2.5rem;    
+}
+
+.texto_7{
+    font-size: 4rem;
+    text-align: center;
+    margin: auto;
+    padding: 0rem 0rem 0rem 2rem;
+    font-weight: bolder;
+}
+.texto_8{
+    font-size: 4rem;
+    text-align: center;
+    padding: 3.5rem 2rem 0rem 0rem;
+    
 }
 
 /*_______________________________________*/
@@ -168,394 +178,222 @@ table{
     color: var(--Just-White);
     text-align: center;
     margin: auto;
-    font-size: 6rem;
-    padding-top: 20rem;
-    padding: 10rem 10rem 0rem 10rem;
+    font-size: 9rem;
+    padding-top: 15rem;
 }
 
 .texto_9{
-    font-size: 3.5rem;
+    font-size: 5rem;
     color: #7A7A7A;
     margin: auto;
     text-align: center;
-    margin-top: 4rem;
-    padding: 1rem 10rem 1rem 10rem;
+    margin-top: 8rem;
 }
 
-/*_______________________________________*/
-
-.Cuarta_sec{
-    width: 100%;
-    height: 100rem;
-    background-color: var(--Warm-Black);
-    margin-top: 17rem;
+.Cuadro_1{ 
+    width: 90rem;
+    height: 45rem;
+    background-color: #282623;
+    margin: auto;
+    margin-top: 8rem;
+    border-radius: 2rem;
+    padding: 1rem 2rem 0rem 3rem;
 }
 
+.reloj_icono{
+    height: 7rem;
+}
 
-.titulo_n{
-    font-size: 6rem;
+.titulo_O1{
+    font-size: 5rem;
     color: var(--Off-White);
     font-weight: lighter;  
 }
-
-.texto_9{
-    font-size: 4rem;
+.texto_10{
+    font-size: 5rem;
     color: #808080;
     margin-top: 1rem;
 }
 
-/*________CAJAS_______________________*/
-
-.content_C{
-    display: flex;
-    flex-direction: row;
-    margin: auto;
-}
-
-.cajas{
-    width: 50rem;
-    height: 20rem;
-    background-color: #282623;
-    margin: 3rem; 
-    border-radius: 1rem;
-    padding-bottom: 3rem;
-    padding: 2rem;
-}
-
-cajas, h4{
-    font-size: 2.5rem;
-    color: var(--Just-White);
-    display: flex;
-    flex-direction: column;
-    font-weight: lighter;
-}
-
-cajas, p{
-    font-size: 2rem;
-    color: #808080;
-}
-
-.cajas img{
-    width: 3rem;
-    height: 3rem;
-    margin: 1rem 1rem 1rem 0rem;
-}
-
-/*___*/
-
-.content_A{
-    display: flex;
-    flex-direction: row;
-    margin: auto;
-}
-
-.cajas2{
-    width: 50rem;
-    height: 20rem;
-    background-color: #282623;
-    margin: 3rem; 
-    border-radius: 1rem;
-    padding-bottom: 3rem;
-    padding: 2rem;
-}
-
-.title{
-    font-size: 2.5rem;
-    color: var(--Just-White);
-    display: flex;
-    flex-direction: column;
-    font-weight: lighter;
-}
-
-.text{
-    font-size: 2rem;
-    color: #808080;
-}
-
-.cajas2 img{
-    width: 3rem;
-    height: 3rem;
-    margin: 1rem 1rem 1rem 0rem;
-}
-
-/*__________CAJAS______________________*/
-
-
-.Quinta_sec{
-    width: 100%;
+.Cuadro_2{
+    width: 90rem;
     height: 50rem;
-    background-image: url(../img/bitcoinbaby%202_tablet_2.png);
-    background-size: cover;
-    background-repeat: no-repeat;      
+    background-color: #282623;
+    margin: auto;
+    margin-top: 8rem;
+    border-radius: 2rem;
+    padding: 1rem 2rem 0rem 3rem;
+}
+.ojo_icono{
+    height: 7rem;
 }
 
-.texto_11{
-    width: 100%;
-    height: 10rem;
+.Cuadro_3{
     font-size: 5rem;
     position: absolute;
     color: var(--Off-White);
     margin: auto;
     align-content: center;
     text-align: center;
-    align-items: center;
+    align-content: center;
+}
+.dolar_icono{
+    height: 7rem;
 }
 
-.Quinta_sec h3{
-    margin-top: 15rem;
+.Cuadro_4{
+    width: 90rem;
+    height: 50rem;
+    background-color: #282623;
+    margin: auto;
+    margin-top: 8rem;
+    border-radius: 2rem;
+    padding: 1rem 2rem 0rem 3rem;
+}
+.check_icono{
+    height: 7rem;
+}
+
+/*_______________________________________*/
+
+.Quinta_sec{
+    width: 100%;
+    height: 50rem;
+    background-image: url(../img/bitcoinbaby%202_tablet_2.png);
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+
+.texto_11{  
+    font-size: 5rem;
+    position: absolute;
+    color: var(--Off-White);
+    margin: auto;
+    align-content: center;
+    text-align: center;
+    align-content: center;
 }
 
 /*_______________________________________*/
  
 .Sexta_sec{
-    width: auto;
-    height: auto;
+    width: 95rem;
+    height: 150rem;
     margin: auto;
     margin-top: 9rem;
 }
 
-.padre_pago{
-    width: 95rem;
-    height: auto;
-    display: flex;
-    flex-direction: row;
-    margin: auto;
-}
-
 .texto_12{
     color: var(--Warm-Black-1);
-    font-size: 6rem;
+    font-size: 7.5rem;
     text-align: center;
-    padding: 0rem 10rem 1rem 10rem;
 }
 
 .texto_13{
     color: #757575;
-    font-size: 3.5rem;
-    text-align: center; 
-    padding: 0rem 10rem 0rem 10rem;
-}
-
-.contenedor_griss{
-    width: 40rem;
-    height: auto;
-    color: var(--Grey);
+    font-size: 5rem;
+    text-align: center;
+    padding: 3rem; 
 }
 
 .cuadro_orange{
-    width: 20rem;
-    height: 7rem;
+    width: 40rem;
+    height: 13rem;
     background-color: var(--Bitcoin-Orange);
     margin: auto;
     align-content: center;
-    margin-left: 6.5rem;
-    border-radius: 1rem;
+    margin-top: 6rem;
+    margin-left: 27rem;
+    border-radius: 3rem;
     position: absolute;
-    margin-top: 5rem;
 }
 
 .texto_cuadro{
-    font-size: 2rem;
+    font-size: 5rem;
+    color: var(--Just-White);
+    text-align: center;
+    align-items: center;
+    padding: 2.7rem 1rem 0rem 1rem;
+    font-weight: 500;
 }
 
 .ventas{
-    width: 30rem;
-    height: 45rem;
+    width: 60rem;
+    height: 80rem;
     background-color: var(--Just-White);
-    border-radius: 1.5rem;
+    border-radius: 3rem;
     box-shadow: 0px 3px 21px -8px rgba(117,117,117,0.84);
     margin: auto;
-    margin-top: 10rem;
-    padding: 6rem 2rem 0rem 2rem;
+    margin-top: 12rem;
+    padding: 12rem 2rem 1rem 2rem;
  
 }
 
 .pago{
-    width: 30rem;
-    height: 25rem;
-    margin: auto;
-}
-
-.texto_14{
-    font-size: 2rem;
-    color: var(--Warm-Black-1);
-    text-align: center;
-    padding-right: 3rem;
-}
-
-.pago99{
-    width: 15rem; 
-    display: flex;
-    text-align: center;
-}
-
-.dolar-1{
-    font-size: 3rem;
-}
-
-.dolar_2{
-    font-size: 9rem;
-}
-
-.texto_15{
-    font-size: 1.7rem;
-    text-align: center;
-    color: #757575;
-    padding: 1rem 5rem 1rem 1rem;
-}
-
-.boton_ventas_griss{
-    width: 25rem;
-    height: 8rem;
-    background-color: var(--Off-White);
-    margin: auto;
-    border: 0.5rem solid var(--Grey);
-    border-radius: 1rem;
-    padding: 2rem 1rem 0rem 3rem;
-    display: flex;
-}
-
-.texto_16{
-    font-size: 2.5rem;
-}
-
-.flecha{
-    color: var(--Bitcoin-Orange);
-    font-size: 3rem;
-    padding-left: 1rem;
-}
-
-.flecha_griss{
-    color: var(--Grey);
-    font-size: 3rem;
-    padding-left: 1rem;
-}
-
-
-.boton_ventas_negro{
-    width: 25rem;
-    height: 8rem;
-    background-color: var(--Off-White);
-    margin: auto;
-    border: 0.5rem solid var(--Bitcoin-Orange);
-    border-radius: 1rem;
-    padding: 2rem 1rem 0rem 3rem;
-    display: flex;
-}
-
-.texto_16{
-    font-size: 2.5rem;
-}
-
-.flecha{
-    color: var(--Bitcoin-Orange);
-    font-size: 3rem;
-    padding-left: 1rem;
-}
-
-
-/*____NO GRISS___________*/
-
-.contenedor_negro{
-    width: 40rem;
-    height: auto;
-}
-
-.cuadro_orange{
-    width: 20rem;
-    height: 7rem;
-    background-color: var(--Bitcoin-Orange);
-    margin: auto;
-    align-content: center;
-    margin-left: 6.5rem;
-    border-radius: 1rem;
-    position: absolute;
-    margin-top: 5rem;
-}
-
-.texto_cuadro{
-    font-size: 2rem;
-}
-
-.ventas{
-    width: 30rem;
+    width: 50rem;
     height: 45rem;
-    background-color: var(--Just-White);
-    border-radius: 1.5rem;
-    box-shadow: 0px 3px 21px -8px rgba(117,117,117,0.84);
-    margin: auto;
-    margin-top: 10rem;
-    padding: 6rem 2rem 0rem 2rem;
- 
-}
-
-.pago{
-    width: 30rem;
-    height: 25rem;
     margin: auto;
 }
 
 .texto_14{
-    font-size: 2rem;
+    font-size: 5rem;
     color: var(--Warm-Black-1);
     text-align: center;
-    padding-right: 3rem;
 }
 
 .pago99{
-    width: 15rem; 
+    width: 30rem;
     display: flex;
+    margin: auto;
     text-align: center;
 }
 
 .dolar-1{
-    font-size: 3rem;
+    font-size: 5rem;
 }
 
 .dolar_2{
-    font-size: 9rem;
+    font-size: 20rem;
 }
 
 .texto_15{
-    font-size: 1.7rem;
+    font-size: 4rem;
     text-align: center;
     color: #757575;
-    padding: 1rem 5rem 1rem 1rem;
 }
 
 .boton_ventas{
-    width: 25rem;
-    height: 8rem;
+    width: 50rem;
+    height: 17rem;
     background-color: var(--Off-White);
     margin: auto;
+    margin-top: 3rem;
     border: 0.5rem solid var(--Bitcoin-Orange);
-    border-radius: 1rem;
-    padding: 2rem 1rem 0rem 3rem;
+    border-radius: 2.5rem;
+    padding: 4.4rem 1rem 0rem 5rem;
     display: flex;
 }
 
 .texto_16{
-    font-size: 2.5rem;
+    font-size: 5rem;
 }
 
 .flecha{
     color: var(--Bitcoin-Orange);
-    font-size: 3rem;
-    padding-left: 1rem;
+    font-size: 5rem;
+    padding-left: 3rem;
 }
-
 
 /*_______________________________________*/
 
 .sec_preguntas{
-    width: 80rem;
-    height: 80rem;
+    width: 88rem;
+    height: 90rem;
     margin: auto;
-    margin-top: 10rem;
 }
 
 .titulo_preg{
-    font-size: 7rem;
+    font-size: 8rem;
     color: var(--Warm-Black-1);
     align-items: center;
     align-content: center;
@@ -563,36 +401,39 @@ cajas, p{
 }
 
 .texto_griss{
-    font-size: 4rem;
+    font-size: 5rem;
     margin-top: 3rem;
     color: #7A7A7A;
-    padding: 1rem;
+    
 }
 
 /*_______________________________________*/
 
 .FOOTER{
     width: 100%;
-    height: 40rem;
+    height: 50rem;
     background-color: #F7931A;
     padding: 10rem 8rem 2rem 8rem;
     display: flex;
     margin: auto;
 }
 
-
 .C_F1{
     width: 30rem;
     height: 30rem;
+    font-size: 6rem;
     color: var(--Just-White);
     margin: auto;
     
-    font-size: 4rem;
+    font-size: 5rem;
 }
 
 .C_F2{
     width: 30rem;
     height: 30rem;
+    font-size: 6rem;
+    color: var(--Just-White);
+    margin: auto;
 }
 
 .img_icon_bit{
@@ -601,17 +442,7 @@ cajas, p{
 
 .texto_17{
     font-size: 3rem;
-    color: var(--Just-White);
 }
-
-.Footer_text{
-    font-size: 3rem;
-    color: var(--Just-White);
-    margin: auto;
-    padding: 1rem;
-}
-
-
 
 
 
