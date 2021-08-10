@@ -229,13 +229,13 @@ table{
 }
 
 .Cuadro_3{
-    width: 90rem;
-    height: 45rem;
-    background-color: #282623;
+    font-size: 5rem;
+    position: absolute;
+    color: var(--Off-White);
     margin: auto;
-    margin-top: 8rem;
-    border-radius: 2rem;
-    padding: 1rem 2rem 0rem 3rem;
+    align-content: center;
+    text-align: center;
+    align-content: center;
 }
 .dolar_icono{
     height: 7rem;
@@ -259,17 +259,19 @@ table{
 .Quinta_sec{
     width: 100%;
     height: 50rem;
-    background-image: url(../img/bitcoinbaby-tableta%20.png);
+    background-image: url(../img/bitcoinbaby%202_tablet_2.png);
     background-size: cover;
     background-repeat: no-repeat;  
 }
 
-.texto_11{
-    font-size: 8rem;
+.texto_11{  
+    font-size: 5rem;
     position: absolute;
     color: var(--Off-White);
-    margin: 0rem auto;
-    padding: 17rem 10rem 0rem 20rem;  
+    margin: auto;
+    align-content: center;
+    text-align: center;
+    align-content: center;
 }
 
 /*_______________________________________*/
@@ -441,5 +443,6 @@ table{
 .texto_17{
     font-size: 3rem;
 }
+
 
 
